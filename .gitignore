@@ -10,6 +10,8 @@ Generated/Data_Train
 topomap_frames
 Notebooks/TEMP.ipynb
 
+*.npz
+*.h5
 eeg_channel.mp3
 eog_animation_30fps.mp4
 Alpha_Localization.png
